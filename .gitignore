@@ -9,3 +9,19 @@ buildNumber.properties
 .mvn/timing.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
+
+# eclipse
+.settings/
+.classpath
+.project
+
+######################
+
+# Windows
+
+######################
+
+# Windows image file caches
+Thumbs.db 
+# Folder config file
+Desktop.ini
